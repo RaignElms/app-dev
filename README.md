@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # Frieren: Beyond Journey's End
 
 ![Alt text](https://tse2.mm.bing.net/th/id/OIP.y3TteMc18Vwbs0R0teIp9QHaKm?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
